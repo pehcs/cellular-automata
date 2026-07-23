@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Artefatos de build do LaTeX (mantemos o PDF final em docs/)
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# Descomente para NÃO versionar as figuras geradas (elas são reprodutíveis):
+# figures/*.png

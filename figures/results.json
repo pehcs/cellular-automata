@@ -1,0 +1,47 @@
+{
+  "fig1_elementary_ca": {
+    "figure": "/home/claude/cellular-automata-percolation/figures/fig1_elementary_ca.png",
+    "final_densities": {
+      "90": 0.0798004987531172,
+      "30": 0.5236907730673317,
+      "110": 0.2967581047381546,
+      "184": 0.5062344139650873
+    }
+  },
+  "fig2_rule90_fractal": {
+    "figure": "/home/claude/cellular-automata-percolation/figures/fig2_rule90_fractal.png",
+    "D_estimated": 1.5849625007211563,
+    "D_theoretical": 1.5849625007211563,
+    "r_squared": 1.0,
+    "rel_error_pct": 0.0
+  },
+  "fig3_percolation_threshold": {
+    "figure": "/home/claude/cellular-automata-percolation/figures/fig3_percolation_threshold.png",
+    "pc_estimates_by_L": {
+      "32": 0.5945,
+      "64": 0.5900000000000001,
+      "128": 0.5906250000000001
+    },
+    "pc_estimated_mean": 0.5917083333333334,
+    "pc_theoretical": 0.592746,
+    "rel_error_pct": 0.17506093110145043
+  },
+  "fig4_percolation_fractal": {
+    "figure": "/home/claude/cellular-automata-percolation/figures/fig4_percolation_fractal.png",
+    "D_estimated_mean": 1.8556524488723998,
+    "D_estimated_std": 0.024402853914649015,
+    "D_theoretical": 1.8958333333333333,
+    "rel_error_pct": 2.119431268269019,
+    "n_samples": 6,
+    "L": 1024
+  },
+  "fig5_forest_fire": {
+    "figure": "/home/claude/cellular-automata-percolation/figures/fig5_forest_fire.png",
+    "burned_fraction_at_0.70": 0.6841662335090716,
+    "empirical_threshold_knee": 0.6,
+    "pc_theoretical": 0.592746
+  },
+  "_meta": {
+    "elapsed_seconds": 4.9
+  }
+}
